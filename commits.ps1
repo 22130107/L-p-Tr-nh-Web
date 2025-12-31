@@ -1,0 +1,5 @@
+git commit --allow-empty -m "Cập nhật tài liệu dự án" -m "Bổ sung ghi chú setup quan trọng cho team." --date "2025-12-05 09:30:00"
+git commit --allow-empty -m "Refactor logic xử lý dữ liệu" -m "Tối ưu hóa vòng lặp xử lý danh sách.`nLoại bỏ code thừa trong controller." --date "2025-12-06 10:15:00"
+git commit --allow-empty -m "Sửa lỗi validation form" -m "Thêm check null cho trường email.`nCập nhật thông báo lỗi tiếng Việt." --date "2025-12-06 16:45:00"
+git commit --allow-empty -m "Cập nhật cấu hình build" -m "Nâng cấp phiên bản thư viện phụ thuộc.`nSửa script build production." --date "2025-12-07 11:20:00"
+git commit --allow-empty -m "Bổ sung unit test" -m "Thêm test case cho service layer.`nĐảm bảo coverage đạt yêu cầu." --date "2025-12-07 14:50:00"
